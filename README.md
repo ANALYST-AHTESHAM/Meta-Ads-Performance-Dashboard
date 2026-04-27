@@ -159,8 +159,8 @@ Engagement Rate =(Engagements ÷ Impressions) × 100
 
 ## 📷 Dashboard Preview
 
-(Add your screenshots in the `/images` folder and link them here)
-
+[(Add your screenshots in the `/images` folder and link them here)
+](https://github.com/ANALYST-AHTESHAM/Meta-Ads-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard.pdf)
 ```
 ![Dashboard Overview](images/overview.png)
 ![Audience Insights](images/demographics.png)
