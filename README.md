@@ -159,9 +159,9 @@ Engagement Rate =(Engagements ÷ Impressions) × 100
 
 ## 📷 Dashboard Preview
 
-Demo. Page 1 - ![Alt text](https://github.com/ANALYST-AHTESHAM/Meta-Ads-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard_page-0002.png)
+Demo. Page 1 - ![Facebook](https://github.com/ANALYST-AHTESHAM/Meta-Ads-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard_page-0002.png)
 
-Demo. Page 2 - ![Alt text](https://github.com/ANALYST-AHTESHAM/Meta-Ads-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard_page-0001.png)
+Demo. Page 2 - ![Instagram](https://github.com/ANALYST-AHTESHAM/Meta-Ads-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard_page-0001.png)
 ---
 
 ## 📂 Repository Structure
